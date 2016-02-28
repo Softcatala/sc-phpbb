@@ -27,7 +27,7 @@ html {
 
 body {
     /* Text-Sizing with ems: http://www.clagnut.com/blog/348/ */
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans" Verdana, Helvetica, Arial, sans-serif;
     color: #828282;
 
     /*font-size: 62.5%;			 This sets the default font size to be equivalent to 10px */
@@ -61,7 +61,7 @@ h2.solo {
 
 h3 {
     /* Sub-headers (also used as post headers, but defined later) */
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     font-weight: bold;
     border-bottom: 4px solid #CCCCCC;
     margin-bottom: 3px;
@@ -74,14 +74,14 @@ h3 {
 }
 
 h3 a{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     font-weight: bold;
     color:#000000;
     text-decoration:none;
 }
 
 h3 a:hover{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     font-weight: bold;
     color:#000000;
     text-decoration:none;
@@ -94,7 +94,7 @@ h3 a:hover{
 
 h4 {
     /* Forum and topic list titles */
-    font-family: "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+    font-family: "Open Sans", "Trebuchet MS", Helvetica, Arial, Sans-serif;
     font-size: 1.3em;
 }
 
@@ -243,9 +243,9 @@ a#logo:hover {
 
 
 
-#scint h1{font-family:Arial, Helvetica, sans-serif;font-size:30px;color:#ffffff;padding:0;margin:15px 0px 0px 0px;}
+#scint h1{font-family:"Open Sans",Arial, Helvetica, sans-serif;font-size:30px;color:#ffffff;padding:0;margin:15px 0px 0px 0px;}
 
-#scint h2{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#F87C01;font-weight:bold;padding:0;margin:0px 0px 0px 0px;}
+#scint h2{font-family:"Open Sans",Arial, Helvetica, sans-serif;font-size:11px;color:#F87C01;font-weight:bold;padding:0;margin:0px 0px 0px 0px;}
 
 
 /* Round cornered boxes and backgrounds
@@ -356,8 +356,8 @@ span.corners-bottom span {
 }
 
 .panel p{color:#000000;}
-.panel p a{color:#3A33AB;}
-.panel p a:hover{color:#3A33AB;}
+.panel p a{color:#c43434;}
+.panel p a:hover{color:#c43434;}
 
 
 .rules span.corners-top {
@@ -560,7 +560,7 @@ table.info tbody th {
 }
 
 dl.details {
-    /*font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;*/
+    /*font-family: "Lucida Grande", "Open Sans", Helvetica, Arial, sans-serif;*/
     font-size: 1.1em;
 }
 
@@ -747,7 +747,7 @@ p.rules a {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     font-size:10px;
-    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-family:"Open Sans",Arial,Helvetica,sans-serif;
 }
 
 #tab_softcatala a:visited {
@@ -784,12 +784,12 @@ p.rules a {
 
 .boxdies{width:106px;height:119px;float:left;position:relative;float:left;display:inline;background-position:center;margin-right:5px;}
 
-.boxdies h1{width:10%;float:left;position:relative;top:30px;left:33px;font-family:Arial, Helvetica, sans-serif;font-size:22px;color:#ffffff;font-weight:bold;margin:0;padding:0;}
+.boxdies h1{width:10%;float:left;position:relative;top:30px;left:33px;font-family:"Open Sans",Arial, Helvetica, sans-serif;font-size:22px;color:#ffffff;font-weight:bold;margin:0;padding:0;}
 
-.boxdies h2{width:99%;float:left;position:relative;top:27px;left:38px;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:10px;color:#ffffff;font-weight:bold;margin:0;padding:0;}
+.boxdies h2{width:99%;float:left;position:relative;top:27px;left:38px;font-family:"Open Sans", Arial, Helvetica, sans-serif;font-size:10px;color:#ffffff;font-weight:bold;margin:0;padding:0;}
 
 
-.boxdies h3{width:99%;float:left;position:relative;top:45px;left:0px;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:9px;color:#7E0F0D;font-weight:bold;margin:0;padding:0;text-align:center;}
+.boxdies h3{width:99%;float:left;position:relative;top:45px;left:0px;font-family:"Open Sans", Arial, Helvetica, sans-serif;font-size:9px;color:#7E0F0D;font-weight:bold;margin:0;padding:0;text-align:center;}
 
 .boxdies h3 b{color:#000000;}
 
@@ -801,7 +801,7 @@ p.rules a {
     width:68%;
 }
 
-.menutop h1{float:left;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#505150;padding:0;margin:20px 0px 0px 0px;font-weight:normal;}
+.menutop h1{float:left;font-family:"Open Sans", Arial, Helvetica, sans-serif;font-size:12px;color:#505150;padding:0;margin:20px 0px 0px 0px;font-weight:normal;}
 
 .menutop h1 a{color:#505150;font-weight:bold;text-decoration:none;}
 .menutop h1 a:hover{color:#505150;font-weight:bold;text-decoration:underline;}
@@ -813,7 +813,7 @@ p.rules a {
     color:#FFFFFF;
     display:inline;
     float:right;
-    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-family:"Open Sans",Arial,Helvetica,sans-serif;
     font-size:13px;
     font-weight:bold;
     margin-left:2px;
@@ -831,10 +831,10 @@ p.rules a {
     width:60%;
 }
 
-.cerca{color:#505150;font-family:Arial, Helvetica, sans-serif; font-size:16px;position:relative;*top:-4px;top:2px;font-weight:bold;}
+.cerca{color:#505150;font-family:"Open Sans",Arial, Helvetica, sans-serif; font-size:16px;position:relative;*top:-4px;top:2px;font-weight:bold;}
 
-.i1{width:30%;height:18px;border:1px solid #BA2626;font-family:Verdana, Arial, Helvetica, sans-serif;color:#2F2F2F;font-weight:normal;font-size:11px;padding:1px 0px 1px 0px;}
-.i2{width:200px;height:15px;border:1px solid #BA2626;font-family:Verdana, Arial, Helvetica, sans-serif;color:#2F2F2F;font-weight:normal;font-size:11px;padding:2px 0px 0px 0px;}
+.i1{width:30%;height:18px;border:1px solid #BA2626;font-family:"Open Sans", Arial, Helvetica, sans-serif;color:#2F2F2F;font-weight:normal;font-size:11px;padding:1px 0px 1px 0px;}
+.i2{width:200px;height:15px;border:1px solid #BA2626;font-family:"Open Sans", Arial, Helvetica, sans-serif;color:#2F2F2F;font-weight:normal;font-size:11px;padding:2px 0px 0px 0px;}
 
 .botcercar a{color:#BA2626;text-decoration:none;}
 
@@ -852,7 +852,7 @@ label {display:none;}
     padding:0 0 5px;
     position:relative;
     width:40%;
-    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-family:"Open Sans",Arial,Helvetica,sans-serif;
     font-size:11px;
     color:#505150;
 }
@@ -867,12 +867,12 @@ div.img_home img {
 }
 
 #page-body .img_home a, #page-body .mini a{
-    color:#3A33AB;
+    color:#c43434;
     text-decoration:none;
 }
 #page-body .img_home a:hover, #page-body .mini a:hover{
     text-decoration:underline;
-    color:#3A33AB;
+    color:#c43434;
     font-weight:bold;
 }
 
@@ -882,7 +882,7 @@ div.img_home img {
     border-top:1px solid #505150;
     color:#000000;
     float:left;
-    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-family:"Open Sans",Arial,Helvetica,sans-serif;
     font-size:13px;
     margin:0;
     padding:10px 2%;
@@ -1273,7 +1273,7 @@ li.header dt, li.header dd {
     padding-top: 2px;
     padding-bottom: 2px;
     font-size: 1em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 
@@ -1432,7 +1432,7 @@ div[class].topic-actions {
     margin: 0 0 0 0 !important;
     text-transform: none;
     border: none;
-    font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "Trebuchet MS", Helvetica, Arial, sans-serif;
     line-height: 125%;
     color:#ffffff;
     background-color:#505150;
@@ -1504,7 +1504,7 @@ div[class].topic-actions {
     min-height: 3em;
     overflow: hidden;
     line-height: 1.4em;
-    font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", "Trebuchet MS", Helvetica, Arial, sans-serif;
     font-size: 1em;
     color: #333333;
 }
@@ -1530,14 +1530,14 @@ div[class].topic-actions {
 }
 
 .content p {
-    font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", "Trebuchet MS", Helvetica, Arial, sans-serif;
     font-size: 1.2em;
     margin-bottom: 1em;
     line-height: 1.4em;
 }
 
 dl.faq {
-    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 1.1em;
     margin-top: 1em;
     margin-bottom: 2em;
@@ -1579,7 +1579,7 @@ dl.faq dt {
 p.author {
     margin: 2px 10em 3px 10px;
     padding: 0 0 0 0;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 1em;
     line-height: 1.2em;
 }
@@ -1605,7 +1605,7 @@ dd .signature {
 
 /* Post noticies */
 .notice {
-    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", Helvetica, Arial, sans-serif;
     width: auto;
     margin-top: 1.5em;
     padding-top: 0.2em;
@@ -1722,7 +1722,7 @@ dl.codebox code {
 }
 
 .attachbox dt {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 
@@ -1776,7 +1776,7 @@ div.inline-attachment p {
 }
 
 dl.file {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
     display: block;
 }
 
@@ -1785,7 +1785,7 @@ dl.file dt {
     margin: 0;
     padding: 0;
     font-weight: bold;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
 
 dl.file dd {
@@ -1803,7 +1803,7 @@ dl.thumbnail img {
 dl.thumbnail dd {
     color: #666666;
     font-style: italic;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
 
 .attachbox dl.thumbnail dd {
@@ -1821,7 +1821,7 @@ dl.thumbnail dt a:hover img {
 /* Post poll styles
 ----------------------------------------*/
 fieldset.polls {
-    font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "Trebuchet MS", Helvetica, Arial, sans-serif;
 }
 
 fieldset.polls dl {
@@ -1867,7 +1867,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
     text-align: right;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
     color: #FFFFFF;
     font-weight: bold;
     padding: 0 2px;
@@ -1967,7 +1967,7 @@ dl.pmlist dd {
 }
 
 #page-body dl.icon span a{
-    color:#3A33AB;
+    color:#c43434;
     text-decoration:none;
 }
 
@@ -1980,7 +1980,7 @@ dl.pmlist dd {
 }
 
 #page-body .txt3 a {
-    color:#3A33AB;
+    color:#c43434;
     text-decoration:none;
 }
 
@@ -1994,12 +1994,12 @@ dl.pmlist dd {
 }
 
 #page-body .row .icon dt a {
-    color:#3A33AB;
+    color:#c43434;
     text-decoration:none;
 }
 
 #page-body .row .icon dt a:hover {
-    color:#3A33AB;
+    color:#c43434;
     font-weight:bold;
     text-decoration:underline;
 }
@@ -2608,7 +2608,7 @@ ol.def-rules li {
 ----------------------------------------*/
 fieldset {
     border-width: 0;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 1.1em;
 }
 
@@ -2618,11 +2618,11 @@ input {
     vertical-align: middle;
     padding: 0 3px;
     font-size: 1em;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 select {
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: normal;
     cursor: pointer;
     vertical-align: middle;
@@ -2640,7 +2640,7 @@ option.disabled-option {
 }
 
 textarea {
-    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", Helvetica, Arial, sans-serif;
     width: 60%;
     padding: 2px;
     font-size: 1em;
@@ -2859,7 +2859,7 @@ fieldset.submit-buttons input {
 }
 
 #message-box textarea {
-    font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "Trebuchet MS", Helvetica, Arial, sans-serif;
     width: 100%;
     font-size: 1.2em;
     color: #333333;
@@ -2917,7 +2917,7 @@ a.button1, input.button1, input.button3, a.button2, input.button2 {
     width: auto !important;
     padding-top: 1px;
     padding-bottom: 1px;
-    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+    font-family: "Lucida Grande", "Open Sans", Helvetica, Arial, sans-serif;
     color: #000;
     background: #FAFAFA none repeat-x top;
 }
@@ -3331,7 +3331,7 @@ a:active	{ color: #368AD2; }
     color: #000000;
     font-size:12px;
     font-weight:bold;
-    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", "Open Sans", Arial, Helvetica, sans-serif;
 }
 
 /* a.forumtitle:visited { color: #105289; } */
@@ -3389,7 +3389,7 @@ a.topictitle:active {
 }
 
 #page-body .postprofile dt.author a{
-    color:#3A33AB;
+    color:#c43434;
 }
 
 #page-body .postprofile a:hover {
@@ -3397,7 +3397,7 @@ a.topictitle:active {
 }
 
 #page-body .postprofile dt.author a:hover{
-    color:#3A33AB;
+    color:#c43434;
 }
 
 /* Profile searchresults */
@@ -4096,24 +4096,24 @@ input.disabled {
 }
 
 #page-body ul.profile-icons li a, #page-body .topic-actions .buttons a{
-    color:#3A33AB;
+    color:#c43434;
     font-weight:bold;
     text-decoration:none;
 }
 
 #page-body ul.profile-icons li a:hover, #page-body .topic-actions .buttons a:hover{
-    color:#3A33AB;
+    color:#c43434;
     font-weight:bold;
     text-decoration:underline;
 }
 
 #page-body .moderator a{
-    color:#3A33AB;
+    color:#c43434;
     text-decoration:none;
 }
 
 #page-body .moderator a:hover{
-    color:#3A33AB;
+    color:#c43434;
     font-weight:bold;
     text-decoration:underline;
 }
@@ -4192,3 +4192,5 @@ input.disabled {
 
 hr.clara { margin: 10px 0;}
 li.icon-ucp { padding-left: 0; }
+
+dt { font-weight: normal; }
